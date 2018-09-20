@@ -1,2 +1,3 @@
-#StudentManagement App
+# StudentManagement App
+
 Its a java based student management system,caters for enrollement,fee payment,balance checking,room assignment....
